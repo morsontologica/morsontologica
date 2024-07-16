@@ -1,6 +1,5 @@
 ## About me
 - Linux user. [Arch](https://archlinux.org/) + [Hyprland](https://github.com/hyprwm/hyprland)
-- Your mom appreciator
     
 ## Socials
 - discord @morsontologica
