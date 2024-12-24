@@ -3,7 +3,6 @@
     
 ## Socials
 - discord @morsontologica
-- reddit u/rootnotrequired
 
 <!--
 **morsontologica/morsontologica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
